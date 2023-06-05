@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/javed__2541" target="blank"><img src="https://img.shields.io/twitter/follow/javed__2541?logo=twitter&style=for-the-badge" alt="javed__2541" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **Front end**
+- 🔭 I’m currently working on **Frontend**
 
 - 🌱 I’m currently learning **Bootstrap, CSS**
 
