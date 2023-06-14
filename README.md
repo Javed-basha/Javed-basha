@@ -45,3 +45,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javed-basha&show_icons=true&locale=en&layout=compact" alt="javed-basha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javed-basha&" alt="javed-basha" /></p>
+
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Javed-basha&&theme=xcode)](https://github.com/Javed-basha)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Javed-basha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Javed-basha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Javed-basha&show_icons=true&locale=en&theme=tokyonight" alt="Javed-basha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Javed-basha&&theme=tokyonight" alt="Javed-basha" /></p>
