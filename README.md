@@ -1,4 +1,5 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
 <h1 align="center">Hi 👋, I'm Javedbasha Shaik</h1>
 <h2 align="center"> You can call me Javed ☕</h2>
 <h3 align="center">An Aspiring frontend developer ❤ from India 🇮🇳</h3>
@@ -40,4 +41,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Javed-basha&&theme=tokyonight" alt="Javed-basha" /></p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="justify">Like a butterfly 🦋 emerging from its cocoon, the electronics communication student undergoes a metamorphosis, spreading their wings as a software developer, ready to soar in the realm of digital innovation</p>
